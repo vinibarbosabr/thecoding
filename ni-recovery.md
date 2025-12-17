@@ -2,7 +2,7 @@
 
 Investigating a potential solution for a problem described by Ari Eiberman on X according to [**this post**](https://x.com/AriEiberman/status/2001073643384610921)
 
-*DISCLAIMER: I still didn't test this method. I don't know if it's safe, nor if it works as intended. Follow the instructions below at your own risk*
+*DISCLAIMER: I still haven't tested this method. I don't know if it's safe, nor if it works as intended. Follow the instructions below at your own risk*
 
 # **USING**
 openai/gpt-oss-120b via [NEAR Private Chat](https://private.near.ai/)
